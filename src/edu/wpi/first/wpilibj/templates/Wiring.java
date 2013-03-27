@@ -18,7 +18,7 @@ public class Wiring
     
     // CANJaguars
     static public final int WINCH_MOTOR                 = 5;
-    static public final int WINCH2_MOTOR                = 1;
+    static public final int WINCH2_MOTOR                = 2;
     static public final int LEFT_WHEEL                  = 7;
     static public final int RIGHT_WHEEL                 = 6;
     static public final int SHOOTER_MOTOR               = 4;
