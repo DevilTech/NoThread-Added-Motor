@@ -1,4 +1,4 @@
-//Non-Threaded Ultimate Ascent with another motor for climbing
+//Non-Threaded Ultimate Ascent with another motor for climbing, no change for climbing logic yet
 package edu.wpi.first.wpilibj.templates;
 
 import edu.wpi.first.wpilibj.*;
